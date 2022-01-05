@@ -9107,7 +9107,7 @@ table {
     }
 
     .banner .w-100 {
-        width: auto!important;
+        width: 100%!important;
     }
 
     .btn-none-992{
